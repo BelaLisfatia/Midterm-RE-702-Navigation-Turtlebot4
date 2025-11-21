@@ -2,6 +2,7 @@
 A robot is tasked with delivering goods from Room 203 to the BRAIL Lobby on the 2nd Floor of the Main Building of Batam State Polytechnic. The robot must be capable of autonomous localization, mapping, and navigation using ROS. To simulate the delivery process, use a buzzer indicator with the following conditions:
 
 • When the robot reaches the pick location (Room 203) and "picks up an item," the buzzer indicator sounds once or a sound is heard from the speaker.
+
 • When the robot reaches the place location (BRAIL Lobby) and "delivers an item," the buzzer sounds twice or a sound is heard from the speaker.
 
 # TurtleBot4 Setup
